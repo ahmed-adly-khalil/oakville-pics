@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Oakville pics",
+  "short_name": "Oakville pics",
   "icons": [
     {
-      "src": "/android-chrome-96x96.png",
+      "src": "/logo.png",
       "sizes": "96x96",
       "type": "image/png"
     }

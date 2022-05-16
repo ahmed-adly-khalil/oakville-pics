@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Exploring the beauty of Oakville',
   language: 'en-ca',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://oakville.pics',
   siteRepo: 'https://github.com/ahmed-adly-khalil/oakville-pics/',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/logo.png',
