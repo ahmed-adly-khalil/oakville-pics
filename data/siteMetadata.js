@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Oakville pics',
   author: 'Ahmed Khalil',
   headerTitle: 'Oakville pics',
-  description: 'documenting our little walks around the beauty of Oakville',
+  description: 'Exploring the beauty of Oakville',
   language: 'en-ca',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
