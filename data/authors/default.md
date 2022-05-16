@@ -1,7 +1,7 @@
 ---
 name: Ahmed Khalil
 avatar: /static/images/ahmed.jpg
-occupation: Software engineer
+occupation: Life explorer
 company:
 email: ahmedadly@gmail.com
 twitter: https://twitter.com/ahmedadly
